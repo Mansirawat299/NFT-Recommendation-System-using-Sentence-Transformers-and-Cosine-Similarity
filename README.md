@@ -1,1 +1,2 @@
 # NFT-Recommendation-System-using-Sentence-Transformers-and-Cosine-Similarity
+This project presents a deep learning-based recommendation system designed to improve NFT discovery by understanding the semantic meaning of NFT descriptions. Unlike traditional keyword-based systems, this approach uses Sentence Transformers (all-MiniLM-L6-v2) to generate context-aware embeddings, and ranks NFTs using Cosine Similarity.
